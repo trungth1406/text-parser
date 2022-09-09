@@ -1,0 +1,3 @@
+[Account Number, Total Call Cost]
+46002255  150
+46001122  330
